@@ -1,3 +1,4 @@
+![Zaridan](https://user-images.githubusercontent.com/61859835/133693621-0712eccc-2645-4d19-9ccf-05c3383ac66c.png)
 # Zaridan
 A bot focused on being multi-purpose and bringing a smile to people.
 
